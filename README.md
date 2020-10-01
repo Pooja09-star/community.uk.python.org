@@ -18,3 +18,7 @@ Alternatively, if you run `python manage.py serve`,
 django-amber will build the site,
 serve the built site on port 8000,
 and watch for changes.
+
+ALSO USE PYGAME FOR GAME DEVELOPMENT.
+INSTALL PYCHARM AND TYPE THE SYNTAX FOR INSTALLING PYGAME on terminal:
+pip install pygame
